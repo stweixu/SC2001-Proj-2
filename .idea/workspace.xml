@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb143fd9-dd6d-4b9f-8bef-e5d9585af424" name="Default Changelist" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data10000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data10000_100_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data10000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data10000_5_0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data1000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data1000_100_0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data1000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data1000_5_0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data1000_999_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data1000_999_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data2000_100_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data2000_5_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2000_999_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data2000_999_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data3000_100_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data3000_5_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data3000_999_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data3000_999_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data4000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data4000_100_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data4000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data4000_5_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data4000_999_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data4000_999_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data5000_100_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data5000_100_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data5000_5_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data5000_5_0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data5000_999_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/data5000_999_0.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
